@@ -1,2 +1,3 @@
 # Day-to-Day-DS-ML
-A personal learning journal where I document what I learn every day — from code snippets and tutorials to insights and experiments.
+Welcome to my learning diary! 🌱
+I share what I learn each day — new concepts, small wins, mistakes, and lessons from my journey as a lifelong learner.
